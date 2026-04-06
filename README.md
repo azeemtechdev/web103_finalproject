@@ -76,4 +76,6 @@ Users can create posts through a popup modal without leaving the current page.
 
 ## Installation Instructions
 
-[instructions go here]
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/azeemtechdev/web103_finalproject
